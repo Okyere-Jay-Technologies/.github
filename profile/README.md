@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cyberpunk style waving capsule header banner with twinkling animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D21034,50:FCD116,100:006B3F&height=220&section=header&text=OKYERE%20JAY%20TECHNOLOGIES&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=DECENTRALIZED%20SYSTEMS%20•%20SMART%20CONTRACT%20AUDITS%20•%20SECURE%20CLOUD&descAlignY=58&descSize=13&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D21034,50:FCD116,100:006B3F&height=220&section=header&text=OKYERE%20JAY%20TECHNOLOGIES&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=CLOUD%20CONSULTING%20•%20CYBERSECURITY%20•%20MOBILE%20%26%20WEB%20•%20AUDITING&descAlignY=58&descSize=13&animation=twinkling" />
 
 <br/>
 
@@ -20,26 +20,26 @@
   <path d="M 795,55 L 795,75 L 775,75" stroke="#FCD116" stroke-width="3" fill="none"/>
   
   <!-- Glowing blinking state modules using SMIL animations -->
-  <circle cx="160" cy="40" r="4.5" fill="#006B3F">
+  <circle cx="150" cy="40" r="4.5" fill="#006B3F">
     <animate attributeName="opacity" values="1;0.1;1" dur="1.5s" repeatCount="indefinite" />
   </circle>
-  <text x="175" y="45" fill="#ffffff" font-family="Courier New, monospace" font-weight="bold" font-size="13" letter-spacing="1">ORG_NODE: ACTIVE</text>
+  <text x="165" y="45" fill="#ffffff" font-family="Courier New, monospace" font-weight="bold" font-size="13" letter-spacing="1">ORG_NODE: ACTIVE</text>
   
-  <circle cx="430" cy="40" r="4.5" fill="#FCD116">
+  <circle cx="410" cy="40" r="4.5" fill="#FCD116">
     <animate attributeName="opacity" values="1;0.1;1" dur="1.5s" repeatCount="indefinite" />
   </circle>
-  <text x="445" y="45" fill="#ffffff" font-family="Courier New, monospace" font-weight="bold" font-size="13" letter-spacing="1">CORE_PROJECT: CREDAXIS</text>
+  <text x="425" y="45" fill="#ffffff" font-family="Courier New, monospace" font-weight="bold" font-size="13" letter-spacing="1">OFFERINGS: FULL_STACK_TECH</text>
   
-  <circle cx="680" cy="40" r="4.5" fill="#D21034">
+  <circle cx="670" cy="40" r="4.5" fill="#D21034">
     <animate attributeName="opacity" values="1;0.1;1" dur="1.5s" repeatCount="indefinite" />
   </circle>
-  <text x="695" y="45" fill="#ffffff" font-family="Courier New, monospace" font-weight="bold" font-size="13" letter-spacing="1">REGION: GH_01</text>
+  <text x="685" y="45" fill="#ffffff" font-family="Courier New, monospace" font-weight="bold" font-size="13" letter-spacing="1">REGION: GH_01</text>
 </svg>
 
 <br/>
 
 <!-- Typewriter animation terminal prompt in Ghana Gold -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FCD116&center=true&vCenter=true&width=650&lines=%3E_Building_Decentralized_Trust;%3E_Smart_Contract_Security_Audits;%3E_Secure_Cloud_Architecture;%3E_Creators_of_Credaxis_Platform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FCD116&center=true&vCenter=true&width=650&lines=%3E_Accelerating_Digital_Transformation;%3E_Cloud_Consulting_%26_DevOps_Solutions;%3E_Secure_Mobile_%26_Web_Applications;%3E_Cybersecurity_%26_Smart_Contract_Audits;%3E_Enterprise_Technology_Partner)](https://git.io/typing-svg)
 
 <br/>
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 🏢 Organization Profile
+## 🏢 Corporate Profile
 
 ```text
  ██████╗  ██╗  ██╗ ██╗   ██╗ ███████╗ ██████╗  ███████╗          ██╗   █████╗   ██╗   ██╗
@@ -64,56 +64,101 @@
  ╚═════╝  ╚═╝  ╚═╝    ╚═╝    ╚══════╝ ╚═╝  ╚═╝ ╚══════╝     ╚═════╝   ╚═╝  ╚═╝     ╚═╝   
 ```
 
-Okyere Jay Technologies is a blockchain systems engineering and security auditing firm. We focus on bridging the gap between decentralized trust theory and secure production software. By combining smart contract analysis, threat modeling, and secure cloud operations, we design, verify, and launch decentralized applications built to scale.
+Okyere Jay Technologies is a full-service technology consulting, design, and engineering firm. We specialize in architecting secure, enterprise-level cloud platforms, building high-performance mobile and web applications, executing comprehensive security audits, and delivering digital transformation roadmaps for businesses globally.
 
 ---
 
-## 🛠️ Core Capabilities
+## 🛠️ Core Capabilities Grid
 
-### 🛡️ Smart Contract Security Audits
-We perform comprehensive security assessments and threat modeling on EVM smart contracts. Our auditing process targets:
-- Logic errors, reentrancy vulnerabilities, access control exploits, and integer issues.
-- Gas optimizations to maximize operational efficiency.
-- Custom automated testing and threat emulation configurations.
-
-### 🌐 Decentralized Application (dApp) Engineering
-We build high-performance dApps that leverage cryptographic trust. Our capabilities range from custom Web3 wallet integration and static Next.js static interfaces to smart contract architectures.
-
-### ☁️ Secure Cloud Infrastructure
-We design secure, containerized environments on **AWS** and **GCP**. Using **Terraform** (IaC), **Docker**, and **Kubernetes**, we bootstrap and manage high-availability clusters engineered for maximum compliance and uptime.
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #D21034; border-radius: 4px; padding: 15px; background: #07070a; min-height: 190px;">
+        <h3 style="color: #D21034; font-family: monospace; margin-top: 0; font-size: 14px;">☁️ [NODE_01: CLOUD_CONSULTING_&_DEVOPS]</h3>
+        <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 80px;">Design, migration, and scaling of high-availability cloud infrastructure on AWS and GCP. Implementation of Infrastructure as Code (Terraform), Docker containerization, Kubernetes orchestration, and robust CI/CD automation pipelines.</p>
+        <span style="color: #FCD116; font-size: 11px; font-family: monospace; font-weight: bold;">STACK: Terraform • K8s • AWS • GCP • GitHub Actions</span>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #FCD116; border-radius: 4px; padding: 15px; background: #07070a; min-height: 190px;">
+        <h3 style="color: #FCD116; font-family: monospace; margin-top: 0; font-size: 14px;">🛡️ [NODE_02: CYBERSECURITY_&_THREAT_AUDITING]</h3>
+        <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 80px;">Comprehensive external/internal vulnerability scanning, threat modeling, and penetration testing. We identify logic flaws, mitigate application exploits, and deliver expert security architecture reviews.</p>
+        <span style="color: #006B3F; font-size: 11px; font-family: monospace; font-weight: bold;">STANDARDS: OWASP Top 10 • ISO 27001 • Threat Modeling</span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #006B3F; border-radius: 4px; padding: 15px; background: #07070a; margin-top: 15px; min-height: 190px;">
+        <h3 style="color: #006B3F; font-family: monospace; margin-top: 0; font-size: 14px;">📱 [NODE_03: SECURE_MOBILE_APPLICATIONS]</h3>
+        <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 80px;">Developing premium native and cross-platform mobile apps for iOS and Android. Custom integrations featuring biometrics, localized keychain encryption, push sync architectures, and secure client-server communication.</p>
+        <span style="color: #D21034; font-size: 11px; font-family: monospace; font-weight: bold;">STACK: React Native • Flutter • Swift • Kotlin</span>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #8b949e; border-radius: 4px; padding: 15px; background: #07070a; margin-top: 15px; min-height: 190px;">
+        <h3 style="color: #c9d1d9; font-family: monospace; margin-top: 0; font-size: 14px;">💻 [NODE_04: ENTERPRISE_WEB_SYSTEMS]</h3>
+        <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 80px;">Engineering high-performance SaaS applications, custom customer dashboards, e-commerce systems, and internal corporate portals with responsive interfaces and real-time database indexing.</p>
+        <span style="color: #006B3F; font-size: 11px; font-family: monospace; font-weight: bold;">STACK: Next.js • React • Tailwind • Node.js • Postgres</span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #D21034; border-radius: 4px; padding: 15px; background: #07070a; margin-top: 15px; min-height: 190px;">
+        <h3 style="color: #D21034; font-family: monospace; margin-top: 0; font-size: 14px;">🔗 [NODE_05: DECENTRALIZED_&_BLOCKCHAIN]</h3>
+        <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 80px;">Cryptographic protocol engineering, custom smart contract development (Solidity), and dApp integration. We audit contract bytecode and build cryptographic backends for enterprise networks.</p>
+        <span style="color: #FCD116; font-size: 11px; font-family: monospace; font-weight: bold;">STACK: Solidity • EVM • Hardhat • Ethers.js • IPFS</span>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #FCD116; border-radius: 4px; padding: 15px; background: #07070a; margin-top: 15px; min-height: 190px;">
+        <h3 style="color: #FCD116; font-family: monospace; margin-top: 0; font-size: 14px;">📈 [NODE_06: IT_BUSINESS_STRATEGY]</h3>
+        <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 80px;">Advising businesses on digital transformation frameworks. We audit codebases for legacy refactoring, design relational and non-relational database structures, and optimize development processes.</p>
+        <span style="color: #006B3F; font-size: 11px; font-family: monospace; font-weight: bold;">SERVICES: Tech Audits • Scaling Advisory • Agile Pipelines</span>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚡ Primary Node: Credaxis
+## 🚀 Signature Enterprise Node: Credaxis
 
-Our signature platform, **Credaxis**, provides institutions with a secure, real-time method to issue and verify digital certificates via blockchain:
-- **Immutable Ledger Verification**: Instant check capabilities using recipient public keys or certificate IDs.
-- **Secure Document Vaulting**: Encrypted, decentralized storage utilizing **IPFS** to safeguard document integrity.
-- **Institutional Management Console**: A fully responsive management panel allowing institutions to track, issue, and revoke certificates at scale.
+Our flagship product, **Credaxis**, showcases our cross-disciplinary expertise in cloud engineering, cybersecurity, smart contract integration, and web development.
 
-*Secure Access Portal:* [okyerejaytechnologies.vercel.app](https://okyerejaytechnologies.vercel.app)
+**Credaxis** is a secure, decentralized digital credentials platform built for academic, professional, and corporate institutions to issue, manage, and verify certificates:
+- **Blockchain Verification Node**: Cryptographically validates digital credentials in real-time without middle-man latency.
+- **Decentralized Storage Backplate**: Leverages **IPFS** for secure, high-availability document vaulting.
+- **Enterprise Management console**: Fully responsive administrative portal featuring custom issuance pipelines, certificate revocation tracking, and analytics dashboards.
+
+*Portal Link:* [okyerejaytechnologies.vercel.app](https://okyerejaytechnologies.vercel.app)
 
 ---
 
-## 🧰 Technology Stack
+## 🧰 Full-Spectrum Tech Stack
 
 <div align="center">
 
-**Smart Contracts & Web3 Core**
-<br/>
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-293147?style=for-the-badge&logo=ethers&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-
-**Languages & Frameworks**
+**Development Languages**
 <br/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Web & Mobile Ecosystem**
+<br/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Cloud Core & Orchestration**
 <br/>
@@ -123,15 +168,23 @@ Our signature platform, **Credaxis**, provides institutions with a secure, real-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
+**Databases & Encryption Engines**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+
 </div>
 
 ---
 
-## 📡 Transmission & Inquiries
+## 📡 Transmission & Client Inbound
 
-Open for blockchain auditing contracts, custom dApp development, and cloud deployments.
-- **Protocol Portal**: [okyerejaytechnologies.vercel.app](https://okyerejaytechnologies.vercel.app)
-- **Security Lead Profile**: [@mhiskall282](https://github.com/mhiskall282) (John Okyere)
+We partner with organizations to build modern infrastructure, secure critical systems, and launch custom platforms.
+- **Official Portal**: [okyerejaytechnologies.vercel.app](https://okyerejaytechnologies.vercel.app)
+- **Principal Architect Profiles**: [@mhiskall282](https://github.com/mhiskall282) (John Okyere)
 - **Emergency Inbound**: [0xmhiskall@gmail.com](mailto:0xmhiskall@gmail.com)
 
 <br/>
