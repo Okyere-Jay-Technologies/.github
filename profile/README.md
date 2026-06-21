@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cyberpunk style waving capsule header banner with twinkling animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D21034,50:FCD116,100:006B3F&height=220&section=header&text=OKYERE%20JAY%20TECHNOLOGIES&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=CLOUD%20CONSULTING%20•%20CYBERSECURITY%20•%20MOBILE%20%26%20WEB%20•%20AUDITING&descAlignY=58&descSize=13&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D21034,50:FCD116,100:006B3F&height=220&section=header&text=OKYERE%20JAY%20TECHNOLOGIES&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=CLOUD%20CONSULTING%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20MOBILE%20AND%20WEB%20%E2%80%A2%20AUDITING&descAlignY=58&descSize=13&animation=twinkling" />
 
 <br/>
 
@@ -39,7 +39,7 @@
 <br/>
 
 <!-- Typewriter animation terminal prompt in Ghana Gold -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FCD116&center=true&vCenter=true&width=650&lines=%3E_Accelerating_Digital_Transformation;%3E_Cloud_Consulting_%26_DevOps_Solutions;%3E_Secure_Mobile_%26_Web_Applications;%3E_Cybersecurity_%26_Smart_Contract_Audits;%3E_Enterprise_Technology_Partner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FCD116&center=true&vCenter=true&width=650&lines=%3E_Accelerating_Digital_Transformation;%3E_Cloud_Consulting_and_DevOps_Solutions;%3E_Secure_Mobile_and_Web_Applications;%3E_Cybersecurity_and_Smart_Contract_Audits;%3E_Enterprise_Technology_Partner)](https://git.io/typing-svg)
 
 <br/>
 
