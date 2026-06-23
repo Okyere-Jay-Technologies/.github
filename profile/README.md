@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cyberpunk style waving capsule header banner with twinkling animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D21034,50:FCD116,100:006B3F&height=220&section=header&text=OKYERE%20JAY%20TECHNOLOGIES&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=CLOUD%20CONSULTING%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20MOBILE%20AND%20WEB%20%E2%80%A2%20AUDITING&descAlignY=58&descSize=13&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D21034,50:FCD116,100:006B3F&height=220&section=header&text=OKYERE%20JAY%20TECHNOLOGIES&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=CLOUD%20CONSULTING%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20MOBILE%20%26amp%3B%20WEB%20%E2%80%A2%20AUDITING&descAlignY=58&descSize=13&animation=twinkling" />
 
 <br/>
 
@@ -43,9 +43,10 @@
 
 <br/>
 
-<!-- Ghana Flag colored Shields.io buttons -->
+<!-- Socials & Links -->
 [![Website](https://img.shields.io/badge/WEBSITE-D21034?style=for-the-badge&logo=cloudflare&logoColor=white)](https://okyerejaytechnologies.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-006B3F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnokyere)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-006B3F?style=for-the-badge&logo=linkedin&logoColor=white)](https://gh.linkedin.com/company/okyere-jay-technologies)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/okyerejaytechnologies/?locale=en_GB)
 [![Email](https://img.shields.io/badge/EMAIL-FCD116?style=for-the-badge&logo=gmail&logoColor=black)](mailto:0xmhiskall@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Okyere-Jay-Technologies)
 
@@ -56,12 +57,12 @@
 ## 🏢 Corporate Profile
 
 ```text
- ██████╗  ██╗  ██╗ ██╗   ██╗ ███████╗ ██████╗  ███████╗          ██╗   █████╗   ██╗   ██╗
-██╔═══██╗ ██║ ██╔╝ ╚██╗ ██╔╝ ██╔════╝ ██╔══██╗ ██╔════╝          ██║  ██╔══██╗  ╚██╗ ██╔╝
-██║   ██║ █████╔╝   ╚████╔╝  █████╗   ██████╔╝ █████╗            ██║  ███████║   ╚████╔╝ 
-██║   ██║ ██╔═██╗    ╚██╔╝   ██╔══╝   ██╔══██╗ ██╔══╝      ██    ██║  ██╔══██║    ╚██╔╝  
-╚██████╔╝ ██║  ██╗    ██║    ███████╗ ██║  ██║ ███████╗    ╚██████╔╝  ██║  ██║     ██║   
- ╚═════╝  ╚═╝  ╚═╝    ╚═╝    ╚══════╝ ╚═╝  ╚═╝ ╚══════╝     ╚═════╝   ╚═╝  ╚═╝     ╚═╝   
+ ██████╗  ██╗  ██╗ ██╗   ██╗ ███████╗ ██████╗  ███████╗         ██╗  █████╗   ██╗   ██╗
+██╔═══██╗ ██║ ██╔╝ ╚██╗ ██╔╝ ██╔════╝ ██╔══██╗ ██╔════╝         ██║ ██╔══██╗  ╚██╗ ██╔╝
+██║   ██║ █████╔╝   ╚████╔╝  █████╗   ██████╔╝ █████╗           ██║ ███████║   ╚████╔╝ 
+██║   ██║ ██╔═██╗    ╚██╔╝   ██╔══╝   ██╔══██╗ ██╔══╝     ██    ██║ ██╔══██║    ╚██╔╝  
+╚██████╔╝ ██║  ██╗    ██║    ███████╗ ██║  ██║ ███████╗   ╚██████╔╝ ██║  ██║     ██║   
+ ╚═════╝  ╚═╝  ╚═╝    ╚═╝    ╚══════╝ ╚═╝  ╚═╝ ╚══════╝    ╚═════╝  ╚═╝  ╚═╝     ╚═╝   
 ```
 
 Okyere Jay Technologies is a full-service technology consulting, design, and engineering firm. We specialize in architecting secure, enterprise-level cloud platforms, building high-performance mobile and web applications, executing comprehensive security audits, and delivering digital transformation roadmaps for businesses globally.
@@ -74,7 +75,7 @@ Okyere Jay Technologies is a full-service technology consulting, design, and eng
   <tr>
     <td width="50%" valign="top">
       <div style="border: 1px solid #D21034; border-radius: 4px; padding: 15px; background: #07070a; min-height: 190px;">
-        <h3 style="color: #D21034; font-family: monospace; margin-top: 0; font-size: 14px;">☁️ [NODE_01: CLOUD_CONSULTING_&_DEVOPS]</h3>
+        <h3 style="color: #FF4D6D; font-family: monospace; margin-top: 0; font-size: 14px;">☁️ [NODE_01: CLOUD_CONSULTING_&_DEVOPS]</h3>
         <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 80px;">Design, migration, and scaling of high-availability cloud infrastructure on AWS and GCP. Implementation of Infrastructure as Code (Terraform), Docker containerization, Kubernetes orchestration, and robust CI/CD automation pipelines.</p>
         <span style="color: #FCD116; font-size: 11px; font-family: monospace; font-weight: bold;">STACK: Terraform • K8s • AWS • GCP • GitHub Actions</span>
       </div>
@@ -83,30 +84,30 @@ Okyere Jay Technologies is a full-service technology consulting, design, and eng
       <div style="border: 1px solid #FCD116; border-radius: 4px; padding: 15px; background: #07070a; min-height: 190px;">
         <h3 style="color: #FCD116; font-family: monospace; margin-top: 0; font-size: 14px;">🛡️ [NODE_02: CYBERSECURITY_&_THREAT_AUDITING]</h3>
         <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 80px;">Comprehensive external/internal vulnerability scanning, threat modeling, and penetration testing. We identify logic flaws, mitigate application exploits, and deliver expert security architecture reviews.</p>
-        <span style="color: #006B3F; font-size: 11px; font-family: monospace; font-weight: bold;">STANDARDS: OWASP Top 10 • ISO 27001 • Threat Modeling</span>
+        <span style="color: #00E676; font-size: 11px; font-family: monospace; font-weight: bold;">STANDARDS: OWASP Top 10 • ISO 27001 • Threat Modeling</span>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <div style="border: 1px solid #006B3F; border-radius: 4px; padding: 15px; background: #07070a; margin-top: 15px; min-height: 190px;">
-        <h3 style="color: #006B3F; font-family: monospace; margin-top: 0; font-size: 14px;">📱 [NODE_03: SECURE_MOBILE_APPLICATIONS]</h3>
+        <h3 style="color: #00E676; font-family: monospace; margin-top: 0; font-size: 14px;">📱 [NODE_03: SECURE_MOBILE_APPLICATIONS]</h3>
         <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 80px;">Developing premium native and cross-platform mobile apps for iOS and Android. Custom integrations featuring biometrics, localized keychain encryption, push sync architectures, and secure client-server communication.</p>
-        <span style="color: #D21034; font-size: 11px; font-family: monospace; font-weight: bold;">STACK: React Native • Flutter • Swift • Kotlin</span>
+        <span style="color: #FF4D6D; font-size: 11px; font-family: monospace; font-weight: bold;">STACK: React Native • Flutter • Swift • Kotlin</span>
       </div>
     </td>
     <td width="50%" valign="top">
       <div style="border: 1px solid #8b949e; border-radius: 4px; padding: 15px; background: #07070a; margin-top: 15px; min-height: 190px;">
         <h3 style="color: #c9d1d9; font-family: monospace; margin-top: 0; font-size: 14px;">💻 [NODE_04: ENTERPRISE_WEB_SYSTEMS]</h3>
         <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 80px;">Engineering high-performance SaaS applications, custom customer dashboards, e-commerce systems, and internal corporate portals with responsive interfaces and real-time database indexing.</p>
-        <span style="color: #006B3F; font-size: 11px; font-family: monospace; font-weight: bold;">STACK: Next.js • React • Tailwind • Node.js • Postgres</span>
+        <span style="color: #00E676; font-size: 11px; font-family: monospace; font-weight: bold;">STACK: Next.js • React • Tailwind • Node.js • Postgres</span>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <div style="border: 1px solid #D21034; border-radius: 4px; padding: 15px; background: #07070a; margin-top: 15px; min-height: 190px;">
-        <h3 style="color: #D21034; font-family: monospace; margin-top: 0; font-size: 14px;">🔗 [NODE_05: DECENTRALIZED_&_BLOCKCHAIN]</h3>
+        <h3 style="color: #FF4D6D; font-family: monospace; margin-top: 0; font-size: 14px;">🔗 [NODE_05: DECENTRALIZED_&_BLOCKCHAIN]</h3>
         <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 80px;">Cryptographic protocol engineering, custom smart contract development (Solidity), and dApp integration. We audit contract bytecode and build cryptographic backends for enterprise networks.</p>
         <span style="color: #FCD116; font-size: 11px; font-family: monospace; font-weight: bold;">STACK: Solidity • EVM • Hardhat • Ethers.js • IPFS</span>
       </div>
@@ -115,7 +116,7 @@ Okyere Jay Technologies is a full-service technology consulting, design, and eng
       <div style="border: 1px solid #FCD116; border-radius: 4px; padding: 15px; background: #07070a; margin-top: 15px; min-height: 190px;">
         <h3 style="color: #FCD116; font-family: monospace; margin-top: 0; font-size: 14px;">📈 [NODE_06: IT_BUSINESS_STRATEGY]</h3>
         <p style="color: #c9d1d9; font-size: 12px; font-family: monospace; min-height: 80px;">Advising businesses on digital transformation frameworks. We audit codebases for legacy refactoring, design relational and non-relational database structures, and optimize development processes.</p>
-        <span style="color: #006B3F; font-size: 11px; font-family: monospace; font-weight: bold;">SERVICES: Tech Audits • Scaling Advisory • Agile Pipelines</span>
+        <span style="color: #00E676; font-size: 11px; font-family: monospace; font-weight: bold;">SERVICES: Tech Audits • Scaling Advisory • Agile Pipelines</span>
       </div>
     </td>
   </tr>
